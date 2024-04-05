@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ángel</h1>
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/914672528579964519/0BE21AF80415B68490F31246CBAF9141174C8853/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" 
+        height="300"</img>
+</p>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
 - 🔭 I’m currently working on [Review Verse](https://github.com/abielsaf/review-verse)
