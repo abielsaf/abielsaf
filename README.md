@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Review Verse](https://github.com/abielsaf/review-verse)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m interested in learning **TypeScript**
 
 - 📫 How to reach me **bielsafuentes@gmail.com**
 
@@ -22,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abielsaf&show_icons=true&locale=en" alt="abielsaf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abielsaf&" alt="abielsaf" /></p>
