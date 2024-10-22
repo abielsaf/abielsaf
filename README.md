@@ -9,7 +9,7 @@
 
 - 🌱 I’m interested in learning **TypeScript**
 
-- 📫 How to reach me **bielsafuentes@gmail.com**
+- 📫 You can reach me here on GitHub or at **bielsafuentes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
